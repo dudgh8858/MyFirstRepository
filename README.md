@@ -1,2 +1,5 @@
 # MyFirstRepository
-Tutorial Repository
+
+1. 201844068/B반/최영호 
+
+2. 전라남도 여수시 신기북 7길 60. 308동 207호 
